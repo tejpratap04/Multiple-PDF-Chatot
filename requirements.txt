@@ -1,0 +1,12 @@
+langchain
+langchain-community
+PyPDF2
+python-dotenv
+streamlit
+openai
+faiss-cpu
+altair
+tiktoken
+# uncomment to use instructor embeddings
+InstructorEmbedding
+sentence-transformers
